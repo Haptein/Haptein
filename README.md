@@ -69,7 +69,7 @@ Research-driven insights on:
 - 🧭 [Servers Directory](https://communityone.io/servers)
 - 🧵 [Reddit Community](https://www.reddit.com/r/GrowYourDiscord)
 - 📧 bruno@communityone.io  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-alatriste-881020227/) *(optional link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bruno-alatriste-881020227/)
 
 ---
 
